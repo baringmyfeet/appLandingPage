@@ -1,0 +1,45 @@
+.navbar-brand{
+	font-size: 1.8em;
+}
+
+#home{
+	background: url(../images/bg1.jpg);
+	background-size: cover;
+	width: 100%;
+}
+
+.toprow{
+	margin-top:100px; 
+}
+
+.toprow h1{
+	font-size: 300%;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.marginTop{
+	margin-top: 30px;
+}
+
+.marginBtm{
+	margin-bottom: 30px;
+}
+
+#interested{
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#download{
+	background: #B4D1F8;
+}
+
+#astore{
+	margin-top: 10px;
+	width: 250px;
+	height: 80px;
+}
